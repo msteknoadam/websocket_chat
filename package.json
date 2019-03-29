@@ -1,0 +1,19 @@
+{
+  "name": "websocket_chat",
+  "version": "1.0.0",
+  "description": "This is a test repo for building a chat with WebSockets.",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "author": "TEKNO",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msteknoadam/websocket_chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msteknoadam/websocket_chat/issues"
+  },
+  "homepage": "https://github.com/msteknoadam/websocket_chat#readme"
+}
